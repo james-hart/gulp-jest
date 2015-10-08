@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Dakuan/gulp-jest",
   "dependencies": {
-    "jest-cli": "git://github.com/james-hart/jest.git#a4fe11dd025e127e9865cc91b7105a23c1c91c6c",
+    "jest-cli": "james-hart/jest#master",
     "gulp-util": "^3.0.6",
     "through2": "^0.5.1"
   },
